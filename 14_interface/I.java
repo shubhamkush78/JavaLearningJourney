@@ -1,0 +1,3 @@
+class I {
+    int x = 0;   // non final, instance level variable declared with default access control...
+}
