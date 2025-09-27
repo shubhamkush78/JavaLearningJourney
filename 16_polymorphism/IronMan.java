@@ -1,0 +1,3 @@
+class IronMan implements SuperHuman {
+    
+}
