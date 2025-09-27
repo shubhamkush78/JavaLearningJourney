@@ -1,0 +1,3 @@
+class ShaktiMan implements SuperHuman {
+    
+}
