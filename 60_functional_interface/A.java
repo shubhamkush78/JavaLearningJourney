@@ -1,0 +1,5 @@
+// functional interface
+
+interface A {
+
+}
